@@ -1,0 +1,23 @@
+server = "https://docker.io"
+
+#[host."https://rqvg4v5d.mirror.aliyuncs.com"]
+#  capabilities = ["pull", "resolve"]
+
+[host."https://hub.uuuadc.top"]
+  capabilities = ["pull", "resolve"]
+
+[host."https://docker.anyhub.us.kg"]
+  capabilities = ["pull", "resolve"]
+
+[host."https://dockerhub.jobcher.com"]
+  capabilities = ["pull", "resolve"]
+
+[host."https://dockerhub.icu"]
+  capabilities = ["pull", "resolve"]
+
+[host."https://docker.ckyl.me"]
+  capabilities = ["pull", "resolve"]
+
+[host."https://docker.awsl9527.cn"]
+  capabilities = ["pull", "resolve"]
+

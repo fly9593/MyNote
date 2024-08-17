@@ -1,0 +1,4 @@
+server = "https://k8s.gcr.io"
+
+[host."https://registry.aliyuncs.com/google_containers/"]
+  capabilities = ["pull", "resolve"]
